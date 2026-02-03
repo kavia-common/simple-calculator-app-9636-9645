@@ -1,0 +1,4 @@
+{
+    "command": "flutter build apk --release --target-platform android-x64",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-calculator-app-9636-9645/calculator_flutter_frontend"
+}

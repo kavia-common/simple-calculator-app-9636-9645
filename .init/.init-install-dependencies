@@ -1,0 +1,4 @@
+{
+    "command": "flutter pub get",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-calculator-app-9636-9645/calculator_flutter_frontend"
+}
